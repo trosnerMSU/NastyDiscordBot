@@ -1,1 +1,13 @@
+# ignore all cache files
+*.cache
 
+*.csproj.nuget.g.targets
+*.csproj.nuget.g.props
+*.assets.json
+*.csproj.nuget.dgspec.json
+*.props
+*.vsidx
+*read.lock
+.suo
+*.g.cs
+*.csproj.FileListAbsolute.txt
