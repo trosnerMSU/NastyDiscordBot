@@ -11,3 +11,9 @@
 .suo
 *.g.cs
 *.csproj.FileListAbsolute.txt
+*.editorconfig
+*.CopyComplete
+*.BuildWithSkipAnalyzers
+applicationhost.config
+*.runtimeconfig.json
+*.dtbcache.v2
