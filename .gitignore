@@ -17,4 +17,3 @@
 applicationhost.config
 *.runtimeconfig.json
 *.dtbcache.v2
-*.dll
